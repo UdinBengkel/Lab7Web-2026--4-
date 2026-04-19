@@ -220,6 +220,8 @@ php spark db:seed UserSeeder
 
 * Halaman Login
 
+<img src="gambar/1.png" width="500"/>
+
 ---
 
 ### 7. Menambahkan Auth Filter
@@ -292,7 +294,7 @@ $routes->post('user/login', 'User::login');
 
 ### 8. Percobaan Akses Menu Admin
 
-
+<img src="gambar/1.png" width="500"/>
 
 ---
 
